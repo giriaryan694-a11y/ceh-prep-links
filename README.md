@@ -27,7 +27,7 @@ All links are from **public, open websites**.
 ### 2. Free CEH Practice Questions & Mock Tests
 
 * [https://exampracticetests.com/eccouncil/ceh-v10/](https://exampracticetests.com/eccouncil/ceh-v10/)
-* [https://certdemy.com/certified-ethical-hacker-exam-free-practice-questions/](https://certdemy.com/certified-ethical-hacker-exam-free-practice-questions/)
+* [https://www.edusum.com/ec-council/ec-council-ceh-312-50-certification-sample-questions](https://www.edusum.com/ec-council/ec-council-ceh-312-50-certification-sample-questions)
 * [https://www.proprofs.com/quiz-school/story.php?title=ec-council-ethical-hacker-exam-practice-test](https://www.proprofs.com/quiz-school/story.php?title=ec-council-ethical-hacker-exam-practice-test)
 * [https://exampracticetests.com/eccouncil/ceh-v11/](https://exampracticetests.com/eccouncil/ceh-v11/)
 * [https://www.gocertify.com/quizzes/ec-council/quizzes/certified-ethical-hacker](https://www.gocertify.com/quizzes/ec-council/quizzes/certified-ethical-hacker)
